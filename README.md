@@ -1,5 +1,7 @@
 # AI Engineer
 
+> **Student guides:** new to the industry? See [Becoming a Software Engineer in the AI Era](guides/README.md), a practical guide set for Sri Lankan university students.
+
 > Benchmarked against how Deloitte, PwC, EY and KPMG currently describe this role.
 > Pitched at mid-level (~3–5 years). See "Flexing the level" at the end to adjust.
 

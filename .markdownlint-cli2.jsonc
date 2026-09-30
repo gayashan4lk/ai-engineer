@@ -1,0 +1,8 @@
+{
+  // Prose-friendly settings for the guides
+  "config": {
+    "MD013": false,
+    "MD036": false,
+    "MD060": false
+  }
+}
